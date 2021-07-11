@@ -1,4 +1,8 @@
-# README
+# FRIENDS LIST APP
+
+Hello My Name is Ali and this is my first Ruby App
+
+---------
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
